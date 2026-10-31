@@ -1,0 +1,8 @@
+# Obsidian — локальное состояние окна и кэш
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.trash/
+# Claude Code — личные локальные настройки
+.claude/settings.local.json
+.DS_Store
