@@ -1,0 +1,9 @@
+{
+  "id": "jarvis",
+  "name": "Джарвис — ИИ-ассистент",
+  "version": "1.0.0",
+  "minAppVersion": "1.5.0",
+  "description": "Личный ИИ-ассистент на Claude: знает всё хранилище, управляет им, учится на отзывах и улучшает себя. Работает на iPhone.",
+  "author": "c4erepk0",
+  "isDesktopOnly": false
+}

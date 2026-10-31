@@ -6,3 +6,7 @@
 # Claude Code — личные локальные настройки
 .claude/settings.local.json
 .DS_Store
+# Джарвис: ключ API и настройки (личное!), резервные копии, зависимости сборки
+.obsidian/plugins/*/data.json
+.jarvis/backups/
+.jarvis/plugin/node_modules/

@@ -1,0 +1,16 @@
+{
+  "name": "obsidian-jarvis",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Джарвис — ИИ-ассистент для Obsidian (Claude API)",
+  "scripts": {
+    "build": "node build.mjs",
+    "check": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "esbuild": "^0.25.0",
+    "obsidian": "^1.14.4",
+    "typescript": "^5.9.3"
+  }
+}
